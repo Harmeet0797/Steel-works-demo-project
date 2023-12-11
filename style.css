@@ -1,0 +1,194 @@
+#contact-btn {
+	background-color: red;
+	color: white;
+	border-color: red;
+	padding: 0px 20px 0px 20px;
+}
+#top-menu {
+	display: flex;
+	font-size: 20px;
+	font-weight: bold;
+	align-content: center;
+	justify-content: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.h-about {
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-size: 26px;
+    font-weight: bold;
+}
+
+.h-title {
+	position: relative;
+	justify-content: center;
+}
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+.navbar-brand img {
+	 height: 70px; width: 70px;
+}
+
+.support {
+	color: white;
+}
+
+.Head {
+	justify-content: center;
+	margin-top: 12%;
+}
+
+.about-text {
+	color: red;
+}
+
+.size {
+	font-size: 40px;
+	font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+}
+.head-title {
+    font-weight: 400;
+    text-align: center;
+    font-size: 86px;
+    color: white;
+    text-shadow: 1px 1px 18px black;
+    padding: 2px;
+    font-family: Lucida Bright,Georgia,serif;
+}
+
+.demo-wrap {
+	position: relative;
+	box-shadow: 5px 10px 3px 40x white;
+}
+
+.footer h1 {
+  display: inline-block;
+  position: relative;
+}
+
+.footer h1::after {
+    content: "";
+    width: 223px;
+    height: 6px;
+    background: red;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -11px;
+    border-radius: 6px;
+}
+
+.contactus {
+	color: white;
+}
+
+.headings {
+	text-align: center; 
+	color:red; 
+	font-weight: bold; 
+	font-size: 40px;"
+	text-decoration: underline;
+	text-underline-offset: 15px;
+}
+
+.demo-wrap:before {
+	content: ' ';
+	display: block;
+	position: absolute;
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+	background-image: url("pexels-pixabay-236709.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-bottom: 120px;
+	padding-top: 70px;
+	margin-bottom: 20px;
+	box-shadow: inset 0rem 0 6rem 3rem black;
+
+}
+
+*{
+	text-align: center;
+}
+
+.head-img {
+	position: relative;
+	height: 600px;
+}
+.p1 {
+	font-size: 17px;
+	text-align: left;
+	font-weight: 500;
+}
+.p-1 h3 {
+	text-align: center;
+}
+
+.custom h4 {
+	font-weight: bold;
+}
+.p-1 h4 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.carousel-inner {
+	box-shadow: inset 0rem 0 6rem 3rem red;
+}
+
+hr.rounded {
+  border-top: 9px solid red;
+  border-color: red;
+  border-radius: 5px;
+}
+
+.copyright {
+	text-align: center;
+	justify-content: center;
+	background-color: red;
+	color: white;
+	font-size: 12px;
+}
+.quick div {
+	text-align: left;
+	justify-item: center;
+	align-self: center;
+}
+
+section {
+font-family: 'Poppins', sans-serif;
+}
+
+@media screen and (max-width: 600px){
+
+.box {
+	display: flex;
+	
+}
+
+.head-title {
+	justify-content: center;
+	font-size: 46px;
+}
+
+.head-img {
+	height: 100%;
+	width: 100%;
+}
+
+.section3{
+	justify-content: center;
+}
+}
